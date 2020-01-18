@@ -1,5 +1,7 @@
 ## gcrypto
 
+[![CircleCI](https://circleci.com/gh/hashamali/gcrypto/tree/master.svg?style=svg)](https://circleci.com/gh/hashamali/gcrypto/tree/master)
+
 Thin wrapper around Go's standard crypto library.
 
 #### Methods
