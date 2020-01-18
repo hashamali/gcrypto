@@ -1,4 +1,4 @@
-module hashamali/gcrypto
+module github.com/hashamali/gcrypto
 
 go 1.12
 
