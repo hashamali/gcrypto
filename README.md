@@ -1,4 +1,5 @@
 # gcrypto
+[![godoc](https://godoc.org/github.com/hashamali/gcrypto?status.svg)](http://godoc.org/github.com/hashamali/gcrypto)
 [![tests](https://img.shields.io/github/workflow/status/hashamali/gcrypto/tests?label=tests&style=flat-square)](https://github.com/hashamali/gcrypto/actions?query=workflow%3Atests)
 [![sec](https://img.shields.io/github/workflow/status/hashamali/gcrypto/security?label=security&style=flat-square)](https://github.com/hashamali/gcrypto/actions?query=workflow%3Asecurity)
 [![coverage](https://img.shields.io/codecov/c/github/hashamali/gcrypto)](https://codecov.io/gh/hashamali/gcrypto)
