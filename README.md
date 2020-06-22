@@ -8,11 +8,14 @@
 
 Thin wrapper around Go's standard crypto library.
 
-#### Methods
+#### API
 
+* `GenerateRandomKey`: Generates a random byte array key (NOTE: don't use this for human readable keys).
 * `HMACSHA256`: Generates an HMAC SHA256 of given body with provided key.
 * `SHA256`: Generates SHA256 of given body.
 * `MD5`: Generates MD5 of given body.
+* `AES256Encrypt`: Apply AES-256 encryption on the given body with the provided key.
+* `AES256Decrypt`: Apply AES-256 decryption on the given data with the provided key.
 
 #### Testing
 
